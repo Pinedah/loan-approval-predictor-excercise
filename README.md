@@ -55,3 +55,6 @@ Este proyecto colaborativo consiste en desarrollar un modelo de Machine Learning
 
 ## Contacto
 Si tienes preguntas o sugerencias sobre este proyecto, no dudes en contactar a github.com/Pinedah o github.com/Rod0225 a través de @pinedah_11 en Ig.
+
+### Aclaración
+© 2025 Pinedah. Este proyecto es de código abierto, y fue realizado como proyecto para la asignatura de Desarrollo de Aplicaciones para Análisis de Datos en la Escuela Superior de Cómputo del IPN.
